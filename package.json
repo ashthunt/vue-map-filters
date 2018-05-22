@@ -1,0 +1,23 @@
+{
+  "name": "vue-map-filters",
+  "version": "1.0.0",
+  "description": "a mapfilters helper function so that filters can be invoked in Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashthunt/vue-map-filters.git"
+  },
+  "keywords": [
+    "vue",
+    "javascript"
+  ],
+  "author": "Ashton Hunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashthunt/vue-map-filters/issues"
+  },
+  "homepage": "https://github.com/ashthunt/vue-map-filters#readme"
+}
